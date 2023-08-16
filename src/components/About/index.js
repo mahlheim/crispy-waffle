@@ -1,5 +1,5 @@
 import React from "react";
-import Monique from "../../assets/images/Monique.jpg";
+import Monique from "../../assets/images/monique.jpg";
 
 function About() {
   return (
