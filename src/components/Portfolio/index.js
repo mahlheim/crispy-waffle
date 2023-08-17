@@ -1,6 +1,6 @@
 import React from "react";
 import cssPortfolioImage from "../../assets/images/cssPortfolioImage.png";
-import weatherDashboardImage from "../../assets/images/weatherDashboardImage";
+import weatherDashboardImage from "../../assets/images/weatherDashboardImage.png";
 import fureverHomeImage from "../../assets/images/fureverHomeImage.png";
 import noteTakerImage from "../../assets/images/noteTakerImage.png";
 import boredomKillerImage from "../../assets/images/boredomKillerImage.png";

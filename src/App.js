@@ -19,7 +19,7 @@ function App() {
     if (currentTab === "Portfolio") {
         return <Portfolio />;
       }
-    if (currentTab === "Contact Me") {
+    if (currentTab === "Contact") {
       return <Contact />;
     }
     if (currentTab === "Resume") {

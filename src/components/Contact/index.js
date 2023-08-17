@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-// import a helper function that checks if the email is valid
+// import helper function that checks if the email is valid
 import { validateEmail } from "../../utils/helpers";
 
 function Contact() {
@@ -55,8 +55,9 @@ function Contact() {
 
       <div className="contact-info">
         <div>
-          <h3>Hello {userName}</h3>
-          <p>I'd love to you hear from you!</p>
+          <h3>Hey there!</h3>
+          <p>I'd love to you hear from you! You can send me an email at the link below 
+            or fill out the contact form!</p>
             <a href="mailto://ahlheimmonique@gmail.com">
             ahlheimmonique@gmail.com
             </a>
@@ -67,7 +68,7 @@ function Contact() {
           <h3>Contact Me</h3>
           <form className="form">
             {/* Name */}
-            <label for="contact-name">Your Name</label>
+            <label for="contact-name">Name</label>
             <input
               value={userName}
               name="userName"
@@ -78,7 +79,7 @@ function Contact() {
             />
 
             {/* Email */}
-            <label for="contact-email">Your Email</label>
+            <label for="contact-email">Email</label>
             <input
               value={email}
               name="email"
