@@ -68,7 +68,7 @@ header h1 {
 
 header a {
   text-decoration: none;
-  color: #0E5259;
+  color: #093236;
 }
 
 header nav {
@@ -133,13 +133,13 @@ header nav ul li a:hover {
 .hero-cta h2 {
   font-style: italic;
   font-size: 55px;
-  color: #0E5259;
+  color: #093236;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 .hero-cta p {
   font-size: 25px;
-  color: #328C83;
+  color: #61918c;
 }
 
 
@@ -407,7 +407,7 @@ header nav ul li a:hover {
 .article {
   margin: 10px;
   margin-bottom: 1em;
-  background-color: #B4D9CB;
+  background-color: #53c0ac;
 }
 
 .resume-body img {

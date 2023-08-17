@@ -10,17 +10,15 @@ function Resume() {
     <div>
       <section id="welcome-section" className="download-intro">
         <div className="flex-row">
-          <h2 className="section-title primary-border">My Resume</h2>
+          <h2 className="section-title primary-border">Resume and Proficiencies</h2>
         </div>
         <div className="flex-row">
           <div className="download-info">
             <div className="download-text">
+            <p>Download my resume here!</p>
               <a href={myResume} className="download-logo" download>
                 <BsCloudDownload />
               </a>
-              <p>
-                My Developer Proficiencies
-              </p>
             </div>
           </div>
         </div>

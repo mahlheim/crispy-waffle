@@ -31,9 +31,9 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>Monique Ahlheim | {currentTab} </title>
+        <title>Monique Ahlheim</title>
       </Helmet>
-      ;
+      
       <Header
         currentTab={currentTab}
         handleTabChange={handleTabChange}
