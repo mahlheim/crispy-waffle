@@ -17,6 +17,8 @@ This app is a portfolio that showcases some of the work I've done throughout thi
 ## Installation
 Clone the repo to your machine, install the dependencies, and run the required scripts. For ease, the app can be accessed [here]().
 
+![screengrab](./src/assets/images/about-me.PNG)
+
 ## Usage
 Navigate to the app and click the links in the nav bar to move around the site. There is an about section, a portfolio with six examples of work (the image links to the app, the title links to the repo), a contact section with a link to email me and a form to fill out to contact me, and lastly there is resume section where my resume can be downloaded and a list of my proficiencies can be seen!
 
