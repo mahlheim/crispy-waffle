@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crispy-waffle/static/css/main.7eb51347.css",
+    "main.js": "/crispy-waffle/static/js/main.7dd05ab7.js",
+    "static/media/coverImage.png": "/crispy-waffle/static/media/coverImage.dcf9f88dc593e60a0654.png",
+    "static/media/cssPortfolioImage.png": "/crispy-waffle/static/media/cssPortfolioImage.d58568ef5f1995f44993.png",
+    "static/media/fureverHomeImage.png": "/crispy-waffle/static/media/fureverHomeImage.73091282a8f5a6629372.png",
+    "static/media/monique.jpg": "/crispy-waffle/static/media/monique.e1d1e7b4c8337a97739b.jpg",
+    "static/media/weatherDashboardImage.png": "/crispy-waffle/static/media/weatherDashboardImage.5a0178fdc9a1ab33a712.png",
+    "static/media/Ahlheim_Resume_22.pdf": "/crispy-waffle/static/media/Ahlheim_Resume_22.8d9a0136f01d9a6cafe5.pdf",
+    "static/media/schedulerImage.png": "/crispy-waffle/static/media/schedulerImage.cd65eb9940e3590fdde2.png",
+    "static/media/boredomKillerImage.png": "/crispy-waffle/static/media/boredomKillerImage.38fd58beb88f4bdb885a.png",
+    "static/media/noteTakerImage.png": "/crispy-waffle/static/media/noteTakerImage.0055eeb45af2ad1845aa.png",
+    "index.html": "/crispy-waffle/index.html",
+    "main.7eb51347.css.map": "/crispy-waffle/static/css/main.7eb51347.css.map",
+    "main.7dd05ab7.js.map": "/crispy-waffle/static/js/main.7dd05ab7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eb51347.css",
+    "static/js/main.7dd05ab7.js"
+  ]
+}
