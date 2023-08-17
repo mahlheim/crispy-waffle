@@ -15,7 +15,7 @@
 This app is a portfolio that showcases some of the work I've done throughout this course. The portfolio is powered by React and deployed to GitHub pages.
 
 ## Installation
-Clone the repo to your machine, install the dependencies, and run the required scripts. For ease, the app can be accessed [here]().
+Clone the repo to your machine, install the dependencies, and run the required scripts. For ease, the app can be accessed [here](https://mahlheim.github.io/crispy-waffle/).
 
 ![screengrab](./src/assets/images/about-me.PNG)
 
@@ -30,6 +30,8 @@ https://www.npmjs.com/package/react-icons?activeTab=versions
 https://github.com/Lemming97/React_Portfolio
 
 https://github.com/ashachakre0906/react-portfolio
+
+https://github.com/gitname/react-gh-pages
 
 ## Contributions
 N/A
